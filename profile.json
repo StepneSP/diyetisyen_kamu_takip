@@ -1,0 +1,28 @@
+{
+  "city": "İstanbul",
+  "degree_keywords": [
+    "Beslenme ve Diyetetik",
+    "Diyetisyen"
+  ],
+  "kpss_p3": 92.0,
+  "master": "Hacettepe Üniversitesi TBS yüksek lisans",
+  "experience_keywords": [
+    "klinik",
+    "kurum diyetisyeni",
+    "menü planlama",
+    "HACCP",
+    "gıda güvenliği"
+  ],
+  "preferred_institutions": [
+    "GSB",
+    "Adalet",
+    "CTE",
+    "MEB",
+    "İstanbul Üniversitesi",
+    "İstanbul Üniversitesi-Cerrahpaşa",
+    "Marmara Üniversitesi",
+    "İstanbul Medeniyet Üniversitesi",
+    "Sağlık Bilimleri Üniversitesi",
+    "İBB"
+  ]
+}

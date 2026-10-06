@@ -1,0 +1,84 @@
+{
+  "google_news_queries": [
+    {
+      "name": "Kariyer Kapısı",
+      "domain": "kariyerkapisi.gov.tr",
+      "query": "site:kariyerkapisi.gov.tr/isealim (diyetisyen OR \"beslenme ve diyetetik\")"
+    },
+    {
+      "name": "GSB",
+      "domain": "gsb.gov.tr",
+      "query": "site:gsb.gov.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "Adalet CTE",
+      "domain": "cte.adalet.gov.tr",
+      "query": "site:cte.adalet.gov.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "MEB",
+      "domain": "meb.gov.tr",
+      "query": "site:meb.gov.tr (diyetisyen OR \"beslenme ve diyetetik\") \"sözleşmeli\""
+    },
+    {
+      "name": "İstanbul Üniversitesi",
+      "domain": "istanbul.edu.tr",
+      "query": "site:istanbul.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "İstanbul Üniversitesi-Cerrahpaşa",
+      "domain": "iuc.edu.tr",
+      "query": "site:iuc.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "Marmara Üniversitesi",
+      "domain": "marmara.edu.tr",
+      "query": "site:marmara.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "İstanbul Medeniyet Üniversitesi",
+      "domain": "medeniyet.edu.tr",
+      "query": "site:medeniyet.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "Yıldız Teknik Üniversitesi",
+      "domain": "yildiz.edu.tr",
+      "query": "site:yildiz.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "İstanbul Teknik Üniversitesi",
+      "domain": "itu.edu.tr",
+      "query": "site:itu.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+      "domain": "msgsu.edu.tr",
+      "query": "site:msgsu.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "Boğaziçi Üniversitesi",
+      "domain": "bogazici.edu.tr",
+      "query": "site:bogazici.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "Sağlık Bilimleri Üniversitesi",
+      "domain": "sbu.edu.tr",
+      "query": "site:sbu.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "Türk-Alman Üniversitesi",
+      "domain": "tau.edu.tr",
+      "query": "site:tau.edu.tr (diyetisyen OR \"beslenme ve diyetetik\") personel"
+    },
+    {
+      "name": "İBB",
+      "domain": "ibb.istanbul",
+      "query": "site:ibb.istanbul (diyetisyen OR \"beslenme ve diyetetik\") personel alımı"
+    },
+    {
+      "name": "Resmî Gazete",
+      "domain": "resmigazete.gov.tr",
+      "query": "site:resmigazete.gov.tr (diyetisyen OR \"beslenme ve diyetetik\") \"sözleşmeli personel\""
+    }
+  ]
+}
